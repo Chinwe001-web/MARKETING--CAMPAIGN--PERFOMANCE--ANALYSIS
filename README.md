@@ -18,6 +18,9 @@ This project analyzes 200,000 marketing campaigns run across 5 companies, 6 chan
 - **KPIs:** Total campaign, Total spend, AVG ROI, AVG Conversion rate, AVG CTR rate
 - **Source:** [https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset]
 
+## Dashboard Overview
+<img width="332" height="191" alt="image" src="https://github.com/user-attachments/assets/f51ae8e8-fb8f-4a6a-a5fb-7c9975b1aab3" />
+
 ## Tools
 - **PostgreSQL:** table creation and data cleaning
 - **Excel:** ANOVA validation (Analysis ToolPak)
@@ -66,13 +69,6 @@ One-way ANOVA (Î± = 0.05) was used to check whether differences between groups
 One of the main limitations I faced was that the dataset only covered marketing campaigns from 2021, so the findings might not reflect current market trends. It also lacked some important details, such as actual sales revenue and the number of customers who converted.I also found that some differences in performance were quite small, so I had to be careful not to make strong recommendations based on limited evidence.
 
 
-
-
-## Files in this repository
-- `marketing_campaign_postgresql.sql`: table creation and cleaning script
-- `marketing_campaign_clean.csv`: cleaned dataset
-- `ANOVA_ready_data.xlsx`: grouped data for running the ANOVA in Excel
-- `images/`: dashboard screenshots
 
 ---
 *Built by Ibe Chinwe Peace | https://www.linkedin.com/in/chinweibe1/| *
