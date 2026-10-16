@@ -63,7 +63,7 @@ One-way ANOVA (Î± = 0.05) was used to check whether differences between groups
 - Investigate location-level performance. Miami and Los Angeles showed slightly higher average ROI than New York. Run targeted tests in these locations to see whether the difference is consistent before reallocating budgets.
 - Don't assume engagement automatically leads to conversions. Check whether campaigns with higher engagement scores also have stronger conversion rates. Use the findings to improve campaign messages and targeting.
 ## Limitations
-Every cut of the data was statistically flat. This is consistent with a synthetic or randomly generated dataset rather than real campaign results. The findings are reported as they are and in a live business setting "none of these levers makes a significant difference" is itself a useful result.
+One of the main limitations I faced was that the dataset only covered marketing campaigns from 2021, so the findings might not reflect current market trends. It also lacked some important details, such as actual sales revenue and the number of customers who converted.I also found that some differences in performance were quite small, so I had to be careful not to make strong recommendations based on limited evidence.
 
 
 
